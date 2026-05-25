@@ -112,5 +112,5 @@ Acesso rápido a: MSConfig, Gerenciador de Tarefas, Serviços, Gerenciador de Di
 - Conexão com a internet (para ativação e alguns reparos)
 
 ---
-Autor
+## Autor
 Desenvolvido e idealizado TEC. Mr.Canatto com apoio de Inteligência Artificial aplicada ao desenvolvimento e arquitetura do Script Batch.
