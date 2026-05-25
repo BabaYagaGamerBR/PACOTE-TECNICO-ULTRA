@@ -86,7 +86,7 @@ Inicia o script de ativação automática do Windows e Office (HWID/KMS) em segu
 ### **[6] Reparar Arquivos Windows (SFC)**
 Executa o comando nativo:
 ```cmd
-sfc /scannow
+sfc / scannow
 
 ### **[7] Reparar Imagem Windows (DISM)**
 Executa `DISM /Online /Cleanup-Image /RestoreHealth`.
